@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 This is the homepage of Thihansa14
-This is a small change.
+There are small change.
 
 But I like to do more changes!
 
